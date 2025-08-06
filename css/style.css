@@ -1,0 +1,7 @@
+h1{
+    text-align: center;
+}
+#botones{
+    display: flex;
+    justify-content: space-evenly;
+}
